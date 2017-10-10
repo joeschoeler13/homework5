@@ -1,0 +1,28 @@
+What runs „Shpock.com“: 
+
+Widgets:
+- „Facebook“
+
+
+Web Server:
+- „Nginx 1.10.2“
+
+Tag Managers:
+- „Google Tag Manager“
+	
+Analytics:
+- „Google Analytics UA“
+- „Facebook Pixel“
+
+Advertising:
+- „Google AdSense“
+- „DoubleClick (DFP)“
+
+Javascript Frameworks:
+- „Handlebars“
+- „Moment JS“
+- „jQuery 3.0.0“
+
+Font:
+- Font: „Arial“
+- Font Family: „Arial, Helvetica, Sans Serif“
