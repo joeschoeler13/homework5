@@ -2,26 +2,46 @@ What runs „Shpock.com“:
 
 Widgets:
 - „Facebook“
+	2 ways how Facebook is used:
+	1. Users can sign up in shpock with their Facebook profile to have easier access
+	and a already completed profile.
+	2. Users offering their products on shpock can advertise (by sharing in their
+	Facebook chronics) their products for free, which creates a big, free surplus.
 
 
 Web Server:
 - „Nginx 1.10.2“
+	web-server software, reverse-proxy (hides real address of target system (client)
+	and e-mail-proxy (filter inbound and outbound email-traffic —> faster and easier
+	communications)
+
 
 Tag Managers:
 - „Google Tag Manager“
+	easier way of managing tags and code-snippets
 	
 Analytics:
 - „Google Analytics UA“
+	Google’s tool for analyzing everything regarding website, users	and website
+	traffic
 - „Facebook Pixel“
+	Facebook’s tool for target group definition and analysis
 
 Advertising:
 - „Google AdSense“
+	Service for easy and free affiliate marketing (src: Google)
 - „DoubleClick (DFP)“
+	Automatizes the process of buying and selling advertisements (from Advertiser to
+	those who offer ad-space on their pages) by „connecting“ ad-seller and -buyer
 
 Javascript Frameworks:
 - „Handlebars“
+	ability to create semantic templates for websites
 - „Moment JS“
+	enables to parse, validate, manipulate, and display dates and times in JavaScript
 - „jQuery 3.0.0“
+	jQuery solution from June/16
+	JavaScript Library (used by every second and 75% of the 10,000 biggest websites)
 
 Font:
 - Font: „Arial“
