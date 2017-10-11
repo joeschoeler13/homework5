@@ -1,0 +1,85 @@
+Cq (Quality): pages and app very well written with easy and understandable language 
+
+Cr (Research): does not seem to be good researched in Canada -> not on the first page of google by searching for keywords like „buy“, „sell“, „used things“, „boot-sales“, but I can remember a better placing in Germany
+
+Cw (Words): Use exactly the words, they should be found for -> in the header and also in a description of what shock is on the landing page
+
+Cf (Fresh): very fresh, many new products offered by users every day
+
+Cv (Vertical): many images (of products) and also maps to show where everything is sold, but depending on the fact, that it is a boot sale site/app no news or similar vertical content
+
+Ca (Answers): connected to Cr (Research), content is a direct answer to the question: ‚Where can I sell my used things easily, quickly and for free?‘ 
+
+Vt (Thin): Content is mostly depending on the users and how they offer their products -> sometimes very good descriptions of products, some others are not as good as those, which sometimes causes that other users feel insecure 
+BUT: shpock.com tries to avoid that by telling users how they have to describe their products
+
+
+Ac (crawl): only the log-in/register-landing page is directly accessible through search engines for every other page, the user has to be logged in
+
+Am (Mobile): very good on mobile devices, especially with the app
+
+Ad (Duplicate): well managed, no duplicate content, except from users offering the same product twice or more times, but that is not shpock’s fault
+
+As (Speed): very quick loading of log-in page and also of product pages
+
+Au (URLs): URLs contain information to every page, e.g. jobs.shpock.com , etc. 
+
+Ah (HTTPS): yes, https is used
+
+Vc (Cloaking): no, both lead to the same pages
+
+
+Ht (Titles): title tags contain mostly ‚shpock‘ -> most keywords (on log-in page) written in <p></p>s, product pages contain keywords of specific products in title-, tags- or description-section (depending on user who offers the product) -> products can be, depending on that, more or less easily searched for
+
+Hd (Description): yes, there are meta descriptions for twitter, Facebook and search-engines, which describe what shpock is
+
+Hs (Structure): yes, on product pages everything is well listed and easily understandable structured
+
+Hh (Headers): no, head is mostly „shpock“, keywords only in description-sections
+
+Vs (Stuffing): No sign of excessively used (key-)words
+
+Vh (Hidden): No sign of that
+
+
+
+
+Ta (Authority): Trust-factor is mostly dependent on the users and how seriously they describe/advertise their products, but shock itself provides a secure(-looking) service/page/app to buy/sell products
+
+Te (Engage): Since most users are looking for products on shpock, they mostly spend a longer time there, which decreases the bounce rate
+
+Th (History): Webpage and app exist since 2012 and offer in general the same, but of course improved service 
+
+Vd (Piracy): No (or at least no information available, or no signs of that)
+
+Va (Ads): Product pages (depending on product-category) sometimes are ad-heavy 
+
+
+Lq (Quality): links from shpock itself are from quality (Facebook, Twitter, google+, App Store, Google Play) BUT: some users who sell their products provide links to own websites or shops in product descriptions which sometimes makes it a little bit unserious
+
+Lt (Text): connected to Hs and Cw -> and depending on users who offer links to own pages in product descriptions (see Lq) but mostly yes
+
+Ln (Number): depending on how and where users share their offered products, but there are many links pointing to shpock
+
+Vp (Paid): no information available
+
+Vl (Spam): sometimes users get spammed (own experience) by e-mail advertisements directly from shpock, e.g. „Look for this and that product offered 2km from your position“ which can be very annoying
+
+
+Pc (Country): users all over the world can offer their products on shpock
+
+Pl (Lacality): see Pc
+
+Ph (History): no information available
+
+
+Sr (Reputation): sometimes, influencers share their (on shpock) offered products in social media, which of course creates reputation and brand awareness
+
+Ss (Shares): depending on seasons (some are better to buy/sell used products) but mostly: the more products are offered, the more are shared as well and shpock offered many possibilities to share products
+
+
+
+
+
+CONCLUSION:
+From an SEO point of view (quickly summarized) a very good site and site structure but Google ranking in Canada could be better (compared to Germany). The Reputation and seriousness are very high but still depending on the users (which creates an important point to control for shpock). The brand awareness on social media is very high. 
